@@ -1,4 +1,4 @@
-package com.gustavo.bilbioteca;
+package com.gustavo.biblioteca;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

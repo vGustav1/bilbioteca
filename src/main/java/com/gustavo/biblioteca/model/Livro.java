@@ -1,4 +1,4 @@
-package com.gustavo.bilbioteca.model;
+package com.gustavo.biblioteca.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
