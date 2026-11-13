@@ -31,5 +31,20 @@ public class Livro {
     private int exemplares;
 
 
-    
+    private void setId(Long id){
+        this.id = id;
+    }
+
+    public Long getId(){
+        return id;
+    }
+
+    private void setTitulo(String Titulo){
+        this.titulo = titulo;
+    }
+
+    public String getTitulo(){
+        return titulo;
+    }
+
 }
